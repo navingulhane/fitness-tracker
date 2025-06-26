@@ -1,21 +1,26 @@
-#🏋️‍♂️ FitStart – Your Beginner's Fitness Companion
-FitStart is a beginner-friendly fitness app designed to help users kickstart their fitness journey with the right workouts, personalized diet guidance, and daily progress tracking. Whether you're just starting out or returning after a break, this app motivates and guides you every step of the way.
+# 🏋‍♂ Fitness Tracker – Your Beginner's Fitness Companion
 
-##✨ Features
-🔥 Daily Motivational Quotes
-Get inspired each time you open the app with a fresh motivational quote to boost your mindset.
+*Fitness Tracker* is a user-friendly fitness application crafted to empower beginners on their fitness journey. With tailored workout routines, personalized diet guidance, and intuitive progress tracking, FitStart ensures you stay motivated and on track—whether you’re starting fresh or returning after a break.
 
-🏃‍♀️ Workout Routines for Beginners
-Easy-to-follow workout plans specially tailored for those new to fitness.
+---
 
-🍱 Simple Diet Plans
-Includes balanced Indian meals and healthy options aligned with your fitness goals.
+## ✨ Key Features
 
-📊 Progress Tracking
-Track your daily workout activity and meal intake to stay consistent and accountable.
+- *🔥 Daily Motivational Quotes*  
+  Start each day inspired with handpicked motivational quotes to keep your mindset positive and focused.
 
-📈 Improvement Tips
-Get basic suggestions powered by AI to improve your form, diet consistency, and routine.
+- *🏃‍♀ Beginner-Friendly Workout Routines*  
+  Access easy-to-follow workout plans designed specifically for those new to fitness, ensuring a safe and effective start.
 
-🎨 Attractive UI with Smooth Animations
-Enjoy a clean, soft, and modern interface with smooth transitions and user-friendly design.
+- *🍱 Simple & Balanced Diet Plans*  
+  Enjoy curated meal plans featuring balanced Indian meals and healthy options, all aligned with your fitness goals.
+
+- *📊 Progress Tracking*  
+  Monitor your daily workouts and meal intake with intuitive tracking tools to help you stay consistent and accountable.
+
+- *📈 AI-Powered Improvement Tips*  
+  Receive actionable suggestions powered by AI to enhance your form, maintain diet consistency, and optimize your routine.
+
+- *🎨 Modern UI with Smooth Animations*  
+  Experience a clean, modern interface with soft visuals and seamless transitions for an enjoyable user experience.
+
