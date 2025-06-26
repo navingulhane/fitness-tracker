@@ -27,3 +27,7 @@ Working Demo: https://kzmnczrfu9mjo4vsho3v.lite.vusercontent.net/
 - *🎨 Modern UI with Smooth Animations*  
   Experience a clean, modern interface with soft visuals and seamless transitions for an enjoyable user experience.
 
+
+![Screenshot 2025-06-26 230132](https://github.com/user-attachments/assets/44923b01-619a-4e4c-9b7a-1f23549748bd)
+
+
