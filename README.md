@@ -1,7 +1,7 @@
-🏋️‍♂️ FitStart – Your Beginner's Fitness Companion
+#🏋️‍♂️ FitStart – Your Beginner's Fitness Companion
 FitStart is a beginner-friendly fitness app designed to help users kickstart their fitness journey with the right workouts, personalized diet guidance, and daily progress tracking. Whether you're just starting out or returning after a break, this app motivates and guides you every step of the way.
 
-✨ Features
+##✨ Features
 🔥 Daily Motivational Quotes
 Get inspired each time you open the app with a fresh motivational quote to boost your mindset.
 
