@@ -12,7 +12,7 @@ Working Demo: https://kzmnczrfu9mjo4vsho3v.lite.vusercontent.net/
 - *🔥 Daily Motivational Quotes*  
   Start each day inspired with handpicked motivational quotes to keep your mindset positive and focused.
 
-- *🏃‍♀ Beginner-Friendly Workout Routines*  
+- *🏃‍♀ Beginner-Friendly Workout Routines:*  
   Access easy-to-follow workout plans designed specifically for those new to fitness, ensuring a safe and effective start.
 
 - *🍱 Simple & Balanced Diet Plans*  
