@@ -18,7 +18,7 @@ Working Demo: https://kzmnczrfu9mjo4vsho3v.lite.vusercontent.net/
 - *🍱 Simple & Balanced Diet Plans:*  
   Enjoy curated meal plans featuring balanced Indian meals and healthy options, all aligned with your fitness goals.
 
-- *📊 Progress Tracking*  
+- *📊 Progress Tracking:*  
   Monitor your daily workouts and meal intake with intuitive tracking tools to help you stay consistent and accountable.
 
 - *📈 AI-Powered Improvement Tips*  
