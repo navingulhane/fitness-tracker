@@ -15,7 +15,7 @@ Working Demo: https://kzmnczrfu9mjo4vsho3v.lite.vusercontent.net/
 - *🏃‍♀ Beginner-Friendly Workout Routines:*  
   Access easy-to-follow workout plans designed specifically for those new to fitness, ensuring a safe and effective start.
 
-- *🍱 Simple & Balanced Diet Plans*  
+- *🍱 Simple & Balanced Diet Plans:*  
   Enjoy curated meal plans featuring balanced Indian meals and healthy options, all aligned with your fitness goals.
 
 - *📊 Progress Tracking*  
