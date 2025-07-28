@@ -1,4 +1,5 @@
-........# 🏋‍♂ Fitness Tracker – Your Beginner's Fitness Companion (^_^)
+
+.......# 🏋‍♂ Fitness Tracker – Your Beginner's Fitness Companion (^_^)
 
 *Fitness Tracker* is a user-friendly fitness application crafted to empower beginners on their fitness journey. With tailored workout routines, personalized diet guidance, and intuitive progress tracking, FitStart ensures you stay motivated and on track—whether you’re starting fresh or returning after a break.
 
