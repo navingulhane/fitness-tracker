@@ -8,7 +8,7 @@ Working Demo:) https://kzmnczrfu9mjo4vsho3v.lite.vusercontent.net/
 
 ---
 
-## ✨ Key Features.
+## ✨ Key Features...
 
 - *🔥 Daily Motivational Quotes*  
   Start each day inspired with handpicked motivational quotes to keep your mindset positive and focused.
